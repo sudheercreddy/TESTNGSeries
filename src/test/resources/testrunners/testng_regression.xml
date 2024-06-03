@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="TestNgNewPrac" verbose="3">
+	
+
+
+	<test name="HRM Test1">
+
+
+		<classes>
+						<class name="testngSessions.AssertsTest3" />
+			<class name="testngSessions.pracTestng" />
+
+
+
+
+		</classes>
+
+
+	</test>
+
+
+</suite>
